@@ -1,0 +1,11 @@
+Git練習用テキスト
+
+あああああああ
+<<<<<<< HEAD
+uuuuuuuuuuuuu
+=======
+Mmmmmmmmmmmmm
+>>>>>>> feature/edit4
+うううううううう
+
+いいいいいい
